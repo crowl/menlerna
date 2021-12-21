@@ -1,0 +1,8 @@
+{
+  "name": "core",
+  "version": "1.0.4",
+  "description": "shared component between apps and web",
+  "main": "index.js",
+  "author": "Ryan Nixon Salim",
+  "license": "MIT"
+}
